@@ -1,5 +1,5 @@
 # Paper-portfolio
-- ### A paper like portfolio made by inspiration from MIRANDA 
+- ### A paper like portfolio made by inspiration from MIRANDA website i have just amde it's clone but the code is written by me
 #
 - ###  Gsap | locomotive | ScrollTrigger | Canva's | Html | css | js
 #
