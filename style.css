@@ -185,7 +185,7 @@ html, body{
 
 #page1 h1{
     font-size: 700px;
-    letter-spacing: -25px;
+    letter-spacing: -35px;
     font-family: canopee;
     font-weight: 100;
     background-color: #1C1C1A;
@@ -262,7 +262,7 @@ html, body{
     background-color: #C4BCB3;
 }
 #page3 h1 {
-    font-size: 550px;
+    font-size: 470px;
     font-family: canopee;
     letter-spacing: -10;
     font-weight: 100;
@@ -413,4 +413,5 @@ html, body{
 
 #page5:hover h1{
     animation-play-state: paused;
+
 }
