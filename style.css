@@ -185,7 +185,7 @@ html, body{
 
 #page1 h1{
     font-size: 700px;
-    letter-spacing: -35px;
+    letter-spacing: -25px;
     font-family: canopee;
     font-weight: 100;
     background-color: #1C1C1A;
@@ -262,7 +262,7 @@ html, body{
     background-color: #C4BCB3;
 }
 #page3 h1 {
-    font-size: 470px;
+    font-size: 550px;
     font-family: canopee;
     letter-spacing: -10;
     font-weight: 100;
@@ -415,3 +415,4 @@ html, body{
     animation-play-state: paused;
 
 }
+
