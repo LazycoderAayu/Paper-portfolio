@@ -31,22 +31,22 @@ html, body{
     overflow: hidden;
 }
 #nav {
-    height: 110px;
+    height: 6.875rem;
     width: 100%;
     display: flex;
-    padding: 0 30px;
+    padding: 0 1.875rem;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid #222;
+    border-bottom: 0.063rem solid #222;
 }
 
 #nav img {
-    height: 29px;
+    height: 1.813rem;
     width: 30%;
 }
 
 #nav h5 {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 100;
     width: 30%;
 
@@ -58,11 +58,11 @@ html, body{
 }
 
 #elems{
-    height: 430px;
+    height: 26.875rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 40px 60px;
+    padding: 2.5rem 3.75rem;
 }
 
 #elem1{
@@ -73,10 +73,10 @@ html, body{
 #elem2{
     width: 30%;
     height: 100%;
-    border-right: 2px solid #777777;
-    padding: 20px 60px;
+    border-right: 0.125rem solid #777777;
+    padding: 2.5rem 3.75rem;
     text-align: center;
-    border-left: 2px solid #757575;
+    border-left: 0.125rem solid #757575;
 }
 
 #elem3{
@@ -85,21 +85,21 @@ html, body{
 }
 
 #elem1 #image-div{
-    height: 60%;
+    height: 15.75rem;
     width: 100%;
     overflow: hidden;
 }
 
 
 #image-div img{
-    height: 100%;
-    width: 1005;
+    height: 15.75rem;
+    width: 100%;
     object-fit: cover;
     transition: all ease 0.5s;
 }
 
 #elem3 #image-div{
-    height: 60%;
+    height: 72%;
     width: 100%;
     overflow: hidden;
 }
@@ -109,9 +109,11 @@ html, body{
 }
 
 #elem1 h4{
-    font-size: 24px;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 1.25rem;
+    font-weight: 800;
+    letter-spacing: 0.1rem;
     font-family: canopee;
 }
 
@@ -119,15 +121,15 @@ html, body{
     background-color: #B43B12;
     color: #C5BDB4;
     font-weight: 100;
-    font-size: 18px;
-    padding: 4px;
-    margin-left: 10px;
-    border-radius: 5px;
+    font-size: 1.125rem;
+    padding: 0.25rem;
+    margin-left: 0.625rem;
+    border-radius: 0.313rem;
 
 }
 
 #elem1 p{
-    font-size: 23px;
+    font-size: 1.438rem;
     font-family: domain;
     font-weight: 100;
     color: #656565;
@@ -135,9 +137,11 @@ html, body{
 }
 
 #elem3 h4{
-    font-size: 24px;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 1.25rem;
+    font-weight: 800;
+    letter-spacing: 0.1rem;
     font-family: canopee;
 }
 
@@ -145,15 +149,15 @@ html, body{
     background-color: #B43B12;
     color: #C5BDB4;
     font-weight: 100;
-    font-size: 18px;
-    padding: 4px;
-    margin-left: 10px;
-    border-radius: 5px;
+    font-size: 1.125rem;
+    padding: 0.25rem;
+    margin-left: 0.625rem;
+    border-radius: 0.313rem;
 
 }
 
 #elem3 p{
-    font-size: 23px;
+    font-size: 1.438rem;
     font-family: domain;
     font-weight: 100;
     color: #656565;
@@ -162,42 +166,44 @@ html, body{
 
 #elem2 h2{
     font-family: canopee;
-    font-size: 75px;
+    font-size: 5.5rem;
     font-weight: 100;
     
 }
 
 #elem2 h3{
     font-family: domain;
-    font-size: 50px;
+    font-size: 3.125rem;
     color: #2f2f22;
     font-weight: 100;
-    margin: 20px 0;
+    margin: 1.25rem 0;
 }
 
 #elem2 h6{
     font-family: domain;
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #2f2f22;
     font-weight: 100;
     
 }
 
 #page1 h1{
-    font-size: 700px;
-    letter-spacing: -25px;
+    font-size: 38rem;
+    letter-spacing: -0.90rem;
     font-family: canopee;
     font-weight: 100;
+    padding-left: 1.5rem;
     background-color: #1C1C1A;
     color: #C5BDB4;
     line-height: 600px;
     width: 96%;
+    margin-top: 2rem;
     margin-left: 2%;
     
 }
 
 #page2{
-    height: 150vh;
+    height: 165vh;
     width: 100%;
     background-color: #C5BDB4;
     display: flex;
@@ -213,14 +219,14 @@ html, body{
 }
 
 #page2-left h2 {
-    font-size: 150px;
+    font-size: 9.375rem;
     font-family: canopee;
-    line-height: 150px;
+    line-height: 9.375rem;
     font-weight: 100;
 }
 
 #page2-left h2 span {
-    font-size: 210px;
+    font-size: 13.125rem;
     font-weight: 900;
 }
 
@@ -231,16 +237,16 @@ html, body{
 }
 
 #page2-left p {
-    font-size: 34px;
+    font-size: 2.125rem;
     font-family: domain;
     color: #2f2f2f;
-    margin-top: 20px;
+    margin-top: 1.25rem;
 }
 
 #page2-right {
     height: 100%;
     width: 70%;
-    padding: 0 60px;
+    padding: 0 3.75rem;
 }
 
 #page2-right img {
@@ -251,30 +257,30 @@ html, body{
 
 #page2-right h1 {
     font-family: canopee;
-    font-size: 140px;
+    font-size: 8.75rem;
     font-weight: 100;
-    letter-spacing: -1.8px;
+    letter-spacing: -0.113rem;
 }
 
 #page3 {
-    padding-bottom: 100px;
+    padding-bottom: 6.25rem;
     position: relative;
     background-color: #C4BCB3;
 }
 #page3 h1 {
-    font-size: 550px;
+    font-size: 20.5rem;
     font-family: canopee;
     letter-spacing: -10;
     font-weight: 100;
     background-color: #1C1C19;
     width: fit-content;
-    margin-left: 2%;
-    padding: 0 20px;
-    line-height: 500px;
+    margin-left: 1.25rem;
+    padding: 0 1.25rem;
+    line-height: 25.25rem;
     color: #C4BCB3;
 }
 #page3 img {
-    height: 450px;
+    height: 28.125rem;
     position: absolute;
     top: 0;
     right: 1%;
@@ -304,22 +310,22 @@ html, body{
 #page4-right {
     width: 35%;
     height: 100%;
-    padding: 80px 60px;
+    padding: 5rem 3.75rem;
 }
 
 #page4-right p {
-    font-size: 34px;
-    font-family: domain;
-    font-weight: 100;
+    font-size: 1.75rem;
+    font-family: cursive;
+    font-weight: 600;
     color: #2f2f2f;
-    margin-bottom: 150px;
-    line-height: 35px;
+    margin-bottom: 1rem;
+    line-height: 2.188rem;
 }
 
 #page4-right #anda {
-    height: 260px;
+    height: 16.25rem;
     background-color: #CAC1B6;
-    border: 1px solid #2f2f2fc6;
+    border: 0.063rem solid #2f2f2fc6;
     border-radius: 50%;
     width: 100%;
     display: flex;
@@ -330,7 +336,7 @@ html, body{
 }
 
 #anda h1 {
-    font-size: 100px;
+    font-size: 6.25rem;
     font-weight: 100;
     font-family: canopee;
     width: 100%;
@@ -344,7 +350,7 @@ html, body{
 }
 
 #anda img {
-    height: 60px;
+    height: 3.75rem;
     transition: all ease 0.6s;
 
     transform: translateX(-120%);
@@ -361,11 +367,11 @@ html, body{
 }
 
 #page5 {
-    padding: 25px 0;
+    padding: 1.563rem 0;
     width: 100%;
     background-color: #C4BCB3;
-    border-top: 1px solid #2f2f2f;
-    border-bottom: 1px solid #2f2f2f;
+    border-top: 0.063rem solid #2f2f2f;
+    border-bottom: 0.063rem solid #2f2f2f;
 
     white-space: nowrap;
     overflow-x: auto;
@@ -377,12 +383,12 @@ html, body{
 }
 
 #page5 h1 {
-    font-size: 100px;
+    font-size: 6.25rem;
     font-family: domain;
     font-weight: 100;
     display: inline-block;
     animation-timing-function: linear;
-    margin-right: 30px;
+    margin-right: 1.875rem;
     animation-name: scroll;
     animation-duration: 5s;
     animation-iteration-count: infinite;
@@ -392,11 +398,11 @@ html, body{
     font-family: canopee;
     background-color: #1b1b1b;
     color: #C4BCB3;
-    padding: 0 12px;
+    padding: 0 0.75rem;
 }
 
 #page6 {
-    height: 100px;
+    height: 6.25rem;
     width: 100%;
     background-color: #C4BCB3;
 }
@@ -407,7 +413,7 @@ html, body{
     }
 
     100% {
-        transform: translateX(calc(-100% - 34px));
+        transform: translateX(calc(-100% - 2.125rem) );
     }
 }
 
